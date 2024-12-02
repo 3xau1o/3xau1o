@@ -7,9 +7,7 @@
   - Used to work professionally in electronics
   - On teenage launched a self-produced musical album
   
-<br/>
 <hr />
-<br/>
 
 <div style="display: flex; flex-direction: column; align-items:flex-start; gap: 5px;">
   <img height="40" src="./asset/typescript.svg" />
