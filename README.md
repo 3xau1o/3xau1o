@@ -1,10 +1,10 @@
 ## Saulo
 
-- Working on web dev
-- Learning native graphics
+- Developing more than i should
+- 2D graphics enthusiastic 
 
 * Fun facts
-  - Used to work professionally in electronics
+  - Used to work professionally in industrial automation
   - On teenage launched a self-produced musical album
   
 <hr />
