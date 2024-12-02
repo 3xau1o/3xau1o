@@ -18,6 +18,5 @@
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
   </div>
 
-  <img height="40" style="padding-bottom:12px;" src="./asset/nodejs.svg" />
-  <img height="40" src="./asset/deno.svg" />
+  <img height="40" src="./asset/nodejs.svg" />
 </p>
