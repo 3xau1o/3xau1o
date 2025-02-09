@@ -6,6 +6,10 @@
 * Fun facts
   - Used to work professionally in industrial automation
   - On teenage launched a self-produced musical album
+
+Functional web programming
+  * Scala.js
+  * ReasonML
   
 <hr />
 
