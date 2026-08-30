@@ -1,4 +1,7 @@
 ## Saulo
 - 🎓 Technology & education researcher
-- 🦀 Safe memory languages geek
-- λ Functional programming enthusiastic
+
+### Interests
+- 🦀 Safe memory languages
+- λ Functional programming
+- 🗨️ Conlangs
